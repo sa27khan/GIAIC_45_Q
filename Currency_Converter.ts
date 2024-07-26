@@ -1,7 +1,4 @@
 import inquirer from 'inquirer'
-// join whatsap chennal: https://whatsapp.com/channel/0029VaDV3lsADTOK3izlJx0p
-// youtube: @GenAi14
-// discord : najafali14
 async function Currency_Converter() {
   while (true) {
 
