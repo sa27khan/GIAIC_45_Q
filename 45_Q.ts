@@ -43,9 +43,9 @@ print(f'{author} once said,{message}')
 
 6
 // In TypeScript
-console.log('\t  Najaf Ali \n')
+console.log('\t  Sadia Asif Khan \n')
 # In Python
-print('\t  Najaf Ali \n')
+print('\t  Sadia Asif Khan \n')
 
 7
 // In typescript
@@ -68,41 +68,41 @@ print(16//2)
 9
 // In Typescript
 const fnum: number = 14
-console.log(`${fnum} is a my favroute number`)
+console.log(`${fnum} is a my favourite number`)
 # In Python
 fnum = 14
-print(f'{fnum} is a my favroute number')
+print(f'{fnum} is a my favourite number')
 
 10
 // In Typescript
 // creating number variable
 const fnum: number = 14
-// printing favroutenumber with message
+// printing favourite number with message
 console.log(`${fnum} is a my favroute number`)
 # In Python
 # creating variable
 fnum = 14
-# printing favroute number with message
-print(f'{fnum} is a my favroute number')
+# printing favourite number with message
+print(f'{fnum} is a my favourite number')
 
 11
 // In Typescript
-let names: string[] = ['Najaf',"Ali"]
+let names: string[] = ['Sadia',"Asif"]
 console.log(names[0])
 console.log(names[1])
 # In Python
-names = ['Najaf','Ali']
+names = ['Sadia','Asif']
 print(names[0])
 print(names[1])
 
 12
 // In Typescript
-let names: string[] = ['Najaf',"Ali"]
+let names: string[] = ['Sadia',"Asif"]
 console.log('hello',names[0])
 console.log('hello',names[1])
 
 # In python
-names = ['Najaf','Ali']
+names = ['Sadia','Asif']
 print('hello',names[0])
 print('hello',names[1])
 
@@ -116,12 +116,12 @@ print(f'I would like to own a Honda {transports[1]}.')
 
 14
 // In typescript
-let Guests: string[] = ['Najaf','Ali','Hassan']
+let Guests: string[] = ['Sadia','Asif','Khan']
 console.log(`i am inviting you ${Guests[0]}.`)
 console.log(`i am inviting you ${Guests[1]}.`)
 console.log(`i am inviting you ${Guests[2]}.`)
 # In Python
-Guests  = ['Najaf','Ali','Hassan']
+Guests  = ['Sadia','Asif','Khan']
 print(f'I am inviting you {Guests[0]}.')
 print(f'I am inviting you {Guests[1]}.')
 print(f'I am inviting you {Guests[2]}.')
@@ -129,72 +129,72 @@ print(f'I am inviting you {Guests[2]}.')
 15
 // In Typescript
 // In Typescript
-let Guests: string[] = ['Najaf','Ali','Hassan']
+let Guests: string[] = ['Sadia','Asif','Khan']
 console.log(`i am inviting you ${Guests[0]}.`)
 console.log(`i am inviting you ${Guests[1]}.`)
 console.log(`ok ${Guests[2]} i am inviting another person.`)
 console.log(Guests[2], 'cant make')
-Guests[2] = 'Abbas'
+Guests[2] = 'Faisal'
 console.log(`i am inviting you ${Guests[2]}.`)
 
 
-console.log(` thanks for comming ${Guests[0]}.`)
-console.log(`thanks for comming ${Guests[1]}.`)
-console.log(`thanks for comming ${Guests[2]}.`)
+console.log(` thanks for coming ${Guests[0]}.`)
+console.log(`thanks for coming ${Guests[1]}.`)
+console.log(`thanks for coming ${Guests[2]}.`)
 # In Python
-Guests  = ['Najaf','Ali','Hassan']
+Guests  = ['Sadia','Asif','Khan']
 print(f'I am inviting you {Guests[0]}.')
 print(f'I am inviting you {Guests[1]}.')
 print(f'ok {Guests[2]} i am inviting another person.')
 print(Guests[2],'cant make')
-Guests[2] = 'Abbas'
+Guests[2] = 'Faisal'
 print(f'i am inviting you {Guests[2]}.')
 
 
-print(f'thanks for comming {Guests[0]}.')
-print(f'thanks for comming {Guests[1]}.')
-print(f'thanks for comming {Guests[2]}.')
+print(f'thanks for coming {Guests[0]}.')
+print(f'thanks for coming {Guests[1]}.')
+print(f'thanks for coming {Guests[2]}.')
 
 16
 // In Typescript
 // In Typescript
-let Guests: string[] = ['Najaf','Ali','Hassan']
+let Guests: string[] = ['Sadia','Asif','Khan']
 console.log(`i am inviting you ${Guests[0]}.`)
 console.log(`i am inviting you ${Guests[1]}.`)
 console.log(`ok ${Guests[2]} i am inviting another person.`)
 console.log(Guests[2], 'cant make')
-Guests[2] = 'Abbas'
+Guests[2] = 'Faisal'
 console.log(`i am inviting you ${Guests[2]}.`)
 
-// console.log(` thanks for comming ${Guests[1]}.`)
-// console.log(`thanks for comming ${Guests[2]}.`)
-// console.log(`thanks for comming ${Guests[3]}.`)
+// console.log(` thanks for coming ${Guests[1]}.`)
+// console.log(`thanks for coming ${Guests[2]}.`)
+// console.log(`thanks for coming ${Guests[3]}.`)
 
 Guests.unshift('nazim')
 Guests.push('zamin')
 console.log(Guests)
 
-console.log(` thanks for comming ${Guests[0]}.`)
-console.log(` thanks for comming ${Guests[1]}.`)
-console.log(` thanks for comming ${Guests[2]}.`)
-console.log(` thanks for comming ${Guests[3]}.`)
-console.log(` thanks for comming ${Guests[4]}.`)
+console.log(` thanks for coming ${Guests[0]}.`)
+console.log(` thanks for coming ${Guests[1]}.`)
+console.log(` thanks for coming ${Guests[2]}.`)
+console.log(` thanks for coming ${Guests[3]}.`)
+console.log(` thanks for coming ${Guests[4]}.`)
 
 17
 // typescript
 // In Typescript
-let Guests: string[] = ['Najaf','Ali','Hassan']
+let Guests: string[] = ['Sadia','Asif','Khan']
 console.log(`i am inviting you ${Guests[0]}.`)
 console.log(`i am inviting you ${Guests[1]}.`)
 console.log(`ok ${Guests[2]} i am inviting another person.`)
 console.log(Guests[2], 'cant make')
-Guests[2] = 'Abbas'
+Guests[2] = 'Faisal'
 console.log(`i am inviting you ${Guests[2]}.`)
 
 
-// console.log(` thanks for comming ${Guests[1]}.`)
-// console.log(`thanks for comming ${Guests[2]}.`)
-// console.log(`thanks for comming ${Guests[3]}.`)
+// console.log(` thanks for coming ${Guests[1]}.`)
+// console.log(`thanks for coming ${Guests[2]}.`)
+// console.log(`thanks for coming ${Guests[3]}.`)
 
 
 Guests.unshift('nazim')
@@ -202,11 +202,11 @@ Guests.push('zamin')
 console.log(Guests)
 
 
-// console.log(` thanks for comming ${Guests[0]}.`)
-// console.log(` thanks for comming ${Guests[1]}.`)
-// console.log(` thanks for comming ${Guests[2]}.`)
-// console.log(` thanks for comming ${Guests[3]}.`)
-// console.log(` thanks for comming ${Guests[4]}.`)
+// console.log(` thanks for coming ${Guests[0]}.`)
+// console.log(` thanks for coming ${Guests[1]}.`)
+// console.log(` thanks for coming ${Guests[2]}.`)
+// console.log(` thanks for coming ${Guests[3]}.`)
+// console.log(` thanks for coming ${Guests[4]}.`)
 
 
 console.log(` sorry, you cant come, we face some issue ${Guests[2]}.`)
@@ -219,8 +219,8 @@ Guests.pop()
 Guests.pop()
 
 
-console.log(` confatulations for ivitation ${Guests[0]}.`)
-console.log(` confatulations for ivitation ${Guests[1]}.`)
+console.log(` congratulations for invitation ${Guests[0]}.`)
+console.log(` congratulations for invitation ${Guests[1]}.`)
 
 
 Guests.pop()
@@ -230,9 +230,9 @@ Guests.pop()
 console.log(Guests)
 18
 // In Typescript
-let places: string[] = ['pakistan','india','iran','turkey','maldeves']
+let places: string[] = ['Pakistan','India','Iran','Turkey','Maldives']
 console.log(places) // original array
-let s = places.sort() // alphabatical array
+let s = places.sort() // alphabetical array
 console.log(s)
 console.log(s.reverse())
 let r = places.reverse() // reverse array
@@ -244,7 +244,7 @@ console.log(r.sort())
 // In Typescript
 // follow the past Guests exercise
 console.log('three peoples added')
-console.log(Guests[2]) // update with abbas
+console.log(Guests[2]) // update with Faisal
 console.log(Guests[0]) // add nazim in starting
 console.log(Guests[4]) // append zamin
 
@@ -307,8 +307,8 @@ else:
 
 24
 // In Typescript
-let nam: string = 'Najaf Ali'.toLowerCase()
-if (nam=='najaf ali'){
+let nam: string = 'Sadia Asif'.toLowerCase()
+if (nam=='sadia aaif'){
    console.log(`welcome ${nam}`)
 }
 else{
@@ -318,10 +318,10 @@ else{
 
 const age: number = 18
 if (age==18 || age>18){
-   console.log('elligible for vote')
+   console.log('eligible for vote')
 }
 if (age<18 && age<0){
-   console.log('not elligible for vote')
+   console.log('not eligible for vote')
 }
 let a:number[] = [1,2,3,4,5]
 console.log(Array.isArray(a))
@@ -393,9 +393,9 @@ if (age>=20 && age<65){
 
 29
 // In typescript
-let favorite_fruits: string[] = ['Apple','Banana','Orange','Guava','mango']
-if (favorite_fruits.includes('mango')){
-   console.log('you realy like mango')
+let favorite_fruits: string[] = ['Apple','Banana','Orange','Guava','Mango']
+if (favorite_fruits.includes('Mango')){
+   console.log('you realy like Mango')
 }
 if (favorite_fruits.includes('Guava')){
    console.log(' not like Guava')
@@ -407,7 +407,7 @@ if (favorite_fruits.includes('Apple')){
 
 30
 // In Typescript
-const usernames: string[] = ["admin", "najaf", "ali", "hassan", "abbas"]
+const usernames: string[] = ["admin", "sadia", "asif", "khan", "faisal"]
 
 
 usernames.forEach(username => {
@@ -421,7 +421,7 @@ usernames.forEach(username => {
 
 31
 // In Typescript
-let usernames: string[] = ["admin", "najaf", "ali", "hassan", "abbas"]
+let usernames: string[] = ["sadia", "asif", "khan", "faisal", "abbas"]
 
 
 if (usernames.length === 0) {
@@ -471,7 +471,7 @@ numbers.forEach(number => {
 
 34
 // In Typescript
-const pizzas: string[] = ["Piza1", "Piza2", "Piza3"]
+const pizzas: string[] = ["Pizza1", "Pizza2", "Pizza3"]
 
 
 console.log("My favorite pizzas:")
