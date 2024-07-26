@@ -78,7 +78,7 @@ print(f'{fnum} is a my favourite number')
 // creating number variable
 const fnum: number = 14
 // printing favourite number with message
-console.log(`${fnum} is a my favroute number`)
+console.log(`${fnum} is a my favourite number`)
 # In Python
 # creating variable
 fnum = 14
