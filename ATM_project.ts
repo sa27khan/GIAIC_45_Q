@@ -1,6 +1,5 @@
 import chalk from 'chalk';
 import inquirer from 'inquirer';
-// Follow the GenAi channel on WhatsApp: https://whatsapp.com/channel/0029VaDV3lsADTOK3izlJx0p
 async function ATM_project() {
   let { userId, userPin } = await inquirer.prompt([
     {
